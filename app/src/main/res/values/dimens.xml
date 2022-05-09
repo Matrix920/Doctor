@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="margin_bottom">10</integer>
+    <dimen name="margin_bottom_analysis">10dp</dimen>
+    <integer name="anim_duration_long">500</integer>
+</resources>

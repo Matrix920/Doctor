@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Doctor</string>
+    <string name="examination">Examination</string>
+    <string name="set_host">Set IP</string>
+</resources>
